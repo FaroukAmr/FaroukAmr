@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @FaroukAmr
+- 👀 I’m interested in Software Engineering opportunities
+- :desktop_computer: I have experience in Web Development.
+- 📫 How to reach me: https://www.linkedin.com/in/faroukamr/
