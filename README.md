@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FaroukAmr
-- :desktop_computer: I am a Computer Engineering undergrad @The German University in Cairo
+- :open_book: I'm a Computer Engineering undergrad @The German University in Cairo
 - :briefcase: Currently working as a Software Engineer intern @ASG
 - 👀 I’m interested in Software Engineering opportunities
 - 📫 How to reach me: https://www.linkedin.com/in/faroukamr/
